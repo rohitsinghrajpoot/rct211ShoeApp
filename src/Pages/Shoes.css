@@ -1,0 +1,12 @@
+.shoe{
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: repeat(3,25%);
+    
+}
+
+img{
+    width: 20%;
+    border: 1px solid black;
+    
+}
